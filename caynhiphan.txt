@@ -1,0 +1,17 @@
+1. giới thiệu cây nhị phân
+-đn là tập hợp hữu hạn các node có cùng kiểu dữ liệu (có thể là tập rỗng)
+2. các loại cây nhị phân
+-cây lệch phải
+-cây lệch trái
+-cây nhị phân đúng
+-cây nhị phân đầy
+-cây nhị phân gần đầy 
+-cây nhị phấn hoán toàn cân bằng
+3. cây nhị phân tìm kiếm 
+*Cây nhị phân tìm kiếm. cây nhị phân thỏa mãn hiều kiện đk:
+-hoặc là rỗng hoặc có một node gốc                                                                       
+-mỗi node góc có tối đa hai cây con.nội dung code góc lớn hơn   node con bên trái và nhỏ hơn nội dung node con bên phải
+-hai cây bên trái và bên phải cũng hình thành nên hai cây tìm kiếm
+Cây nhị phân hoàn  toàn cân bằng ...
+4.các loại cây nhị phân
+5.Cây nhị phân tìm kiếm cân bằng
