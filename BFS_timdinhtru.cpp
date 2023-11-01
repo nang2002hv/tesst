@@ -62,4 +62,7 @@ main(){
 	freopen("output.txt","w",stdout);
 	input();
 	duyet_tru();
+
+	//comment
+	//co2411241421424
 }
